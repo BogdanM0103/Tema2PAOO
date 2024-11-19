@@ -4,11 +4,22 @@
     <ClCompile Include="C:\Users\Bogdan\CLionProjects\Tema2PAOO\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\Bogdan\CLionProjects\Tema2PAOO\BankAccount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Bogdan\CLionProjects\Tema2PAOO\BankAccount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\Bogdan\CLionProjects\Tema2PAOO\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F0682C93-908F-3B39-929F-199B071A5C16}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{1EB929AC-F28A-382A-8ADD-1F5F2C7A190B}</UniqueIdentifier>
     </Filter>

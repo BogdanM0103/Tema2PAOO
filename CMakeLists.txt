@@ -3,4 +3,8 @@ project(Tema2PAOO)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(Tema2PAOO main.cpp)
+include_directories(include)
+
+add_executable(Tema2PAOO main.cpp
+        BankAccount.cpp
+        BankAccount.h)
