@@ -1,0 +1,3 @@
+C:/Users/Bogdan/CLionProjects/Tema2PAOO/build/CMakeFiles/Tema2PAOO.dir
+C:/Users/Bogdan/CLionProjects/Tema2PAOO/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Bogdan/CLionProjects/Tema2PAOO/build/CMakeFiles/ZERO_CHECK.dir

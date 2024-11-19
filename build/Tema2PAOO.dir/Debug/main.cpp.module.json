@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Tema2PAOO.dir\\Debug\\main.obj",
+            "outputs": [
+                "C:\\Users\\Bogdan\\CLionProjects\\Tema2PAOO\\build\\Tema2PAOO.dir\\Debug\\vc143.pdb",
+                "Tema2PAOO.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
